@@ -1,6 +1,6 @@
 # my-notes
  My name is (Mohammed Al-Dahleh), an experienced engineer i graduated software engineering from the Ahliyya Amman University.
-
+My first repo
  ## my-opinion
  I really interesting read this *How to Learn Things Fast Without Going Crazy* .
  The solution that I am about to propose is around one core idea: Learn the general idea fast, and then gradually deep dive in. From that perspective I built mysel.
